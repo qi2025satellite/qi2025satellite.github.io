@@ -10,7 +10,7 @@ This workshop is being organized in conjunction with the QI2023 event to bring t
 ## Date and Location
 
 - **Date:** December 20th and 21st, 2023
-- **Location:** Nambu Hall in Toyonaka Campus, Osaka University
+- **Location:** [Nambu Hall in Toyonaka Campus, Osaka University](https://maps.app.goo.gl/3UcKwJ8d4n6vQU2QA)
 
 ## Program
 
