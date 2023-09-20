@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About the Workshop
+## About the Workshop
 
 This workshop is being organized in conjunction with the QI2023 event to bring together experts and enthusiasts in the field of quantum information. We aim to host high-quality sessions and discussions on quantum computations both in NISQ and FTQC era.
 
