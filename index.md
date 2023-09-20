@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Quantum Innovation 2023 satellite workshop in Osaka
 ---
 
 ## About the Workshop
