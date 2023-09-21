@@ -36,4 +36,4 @@ For inquiries or more information, please contact: qi2023satellite@qc.ee.es.osak
 We look forward to seeing you at the workshop!
 
 ## Sponsor
-This workshop is sponsored by MEXT Q-LEAP QuAI Flagship project. 
+This workshop is sponsored by [MEXT Q-LEAP QuAI Flagship project](https://qleap-qai.jp/). 
