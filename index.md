@@ -23,7 +23,7 @@ To register for the workshop, please visit [registration page](#) (coming soon).
 
 ## Contact
 
-For inquiries or more information, please contact: qi2023satellite@gmail.com
+For inquiries or more information, please contact: qi2023satellite@qc.ee.es.osaka-u.ac.jp
 
 
 ## Organizers
