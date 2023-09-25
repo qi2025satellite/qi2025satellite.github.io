@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Quantum Innovation 2023 satellite workshop in Osaka
+title: QI2023 satellite workshop
+description: theory and software approach for quantum computing from NISQ to FTQC
 ---
 
 ## About the Workshop
