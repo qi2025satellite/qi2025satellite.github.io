@@ -1,7 +1,6 @@
 ---
 layout: default
-title: QI2023 satellite workshop
-description: theory and software approach for quantum computing from NISQ to FTQC
+title: QI2023 satellite workshop: theory and software approach for quantum computing from NISQ to FTQC
 ---
 
 ## About the Workshop
