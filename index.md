@@ -17,10 +17,26 @@ This workshop is being organized in conjunction with the QI2023 event to bring t
 
 [TBA](program.html)
 
-
 ## Registration
 
 To register for the workshop, please visit [registration page](https://docs.google.com/forms/d/e/1FAIpQLSfleazSdFvpIHLL7mWfi-Ec2-5hPY4yCZAu98Spla0iLrl5Yg/viewform?usp=sharing).
+
+## Invited speakers
+
+- Yutaro Akahoshi
+- Zhenyu Cai
+- Suguru Endo
+- Kosuke Fukui
+- Ryu Hayakawa
+- Tyson Jones
+- Keita Kanno
+- Yugo Takada
+- Ryuji Takagi
+- Teruo Tanimoto
+- Kaito Wada
+- Hayata Yamasaki
+
+(Alphabetical order)
 
 ## Contact
 
