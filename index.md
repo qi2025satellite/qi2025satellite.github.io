@@ -24,6 +24,7 @@ To register for the workshop, please visit [registration page](https://docs.goog
 ## Invited speakers
 
 - Yutaro Akahoshi
+- Seiseki Akibue
 - Zhenyu Cai
 - Suguru Endo
 - Kosuke Fukui
