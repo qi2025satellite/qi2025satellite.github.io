@@ -29,6 +29,7 @@ To register for the workshop, please visit [registration page](https://docs.goog
 - Suguru Endo
 - Kosuke Fukui
 - Ryu Hayakawa
+- Min-Hsiu Hsieh
 - Tyson Jones
 - Keita Kanno
 - Yugo Takada
