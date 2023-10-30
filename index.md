@@ -15,7 +15,7 @@ This workshop is being organized in conjunction with the QI2023 event to bring t
 
 ## Program
 
-[TBA](program.html)
+[Here](program.html)
 
 ## Registration
 
