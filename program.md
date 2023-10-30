@@ -1,5 +1,6 @@
 ---
 layout: default
+title: QI2023 satellite workshop
 description: Program
 ---
 
