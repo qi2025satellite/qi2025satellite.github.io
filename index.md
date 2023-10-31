@@ -19,7 +19,9 @@ This workshop is being organized in conjunction with the QI2023 event to bring t
 
 ## Registration
 
-To register for the workshop, please visit [registration page](https://docs.google.com/forms/d/e/1FAIpQLSfleazSdFvpIHLL7mWfi-Ec2-5hPY4yCZAu98Spla0iLrl5Yg/viewform?usp=sharing).
+- To register for the workshop, please visit [registration page](https://docs.google.com/forms/d/e/1FAIpQLSfleazSdFvpIHLL7mWfi-Ec2-5hPY4yCZAu98Spla0iLrl5Yg/viewform?usp=sharing).
+- Registration fee is free.
+- For attendees of the networking event on November 20th, please note that the fee will be collected at the event location. It will be 500 yen for invited speakers and around 3000-4000 yen for others.
 
 ## Invited speakers
 
