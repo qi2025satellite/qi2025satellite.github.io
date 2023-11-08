@@ -51,6 +51,7 @@ For inquiries or more information, please contact: qi2023satellite@qc.ee.es.osak
 
 - Keisuke Fujii
 - Yasunari Suzuki
+- Hideaki Hakoshima
 - Kosuke Mitarai
 - Wataru Mizukami
 
