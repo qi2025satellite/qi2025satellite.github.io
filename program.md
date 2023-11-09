@@ -24,7 +24,7 @@ description: Program
 | **Nov. 21st (Tue)** | | |
 | 10:10-10:50 | Hideaki Hakoshima | Localized virtual purification |
 | 10:50-11:30 | Min-Hsiu Hsieh | Problem-Dependent Power of Quantum Neural Networks on Multiclass Classification |
-| 11:30-12:10 | TBA | TBA |
+| 11:30-12:10 | Suguru Endo | Quantum error mitigation for fault-tolerant quantum computing |
 | 12:10-14:10 | | Lunch (2h) |
 | 14:10-14:50 | Tyson Jones | Distributed simulation of statevectors and density matrices |
 | 14:50-15:30 | Keita Kanno | Quantum chemistry on NISQ devices beyond VQE: Quantum-Selected Configuration Interaction and its developments |
