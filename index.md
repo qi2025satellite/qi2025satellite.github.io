@@ -29,6 +29,7 @@ This workshop is being organized in conjunction with the QI2023 event to bring t
 - Yutaro Akahoshi
 - Seiseki Akibue
 - Zhenyu Cai
+- Suguru Endo
 - Kosuke Fukui
 - Ryu Hayakawa
 - Min-Hsiu Hsieh
