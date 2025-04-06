@@ -22,7 +22,7 @@ The program includes:
 - **Invited Talks**
 - **Contributed Talks**
 - **Poster Session**
-- **Hardware Tour / Free Discussion** (March 28)
+- **Hardware Tour / Free Discussion**
 
 **Program details:** [TBD](program.html)
 
