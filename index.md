@@ -40,7 +40,9 @@ The program includes:
 - Yudai Suzuki, The École Polytechnique Fédérale de Lausanne (EPFL), Switzerland  
 - Nobuyuki Yoshioka, University of Tokyo, ICEPP, Japan
 - and more
+
 (Alphabetical order)
+
 
 ## Contact
 
