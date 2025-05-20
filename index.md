@@ -32,8 +32,15 @@ The program includes:
 
 ## Invited Speakers
 
-- TBD  
-(Alphabetical order, to be announced)
+- Keita Kanno, QunaSys Inc., Japan  
+- Lin Lin, University of California, Berkeley/Lawrence Berkeley National Laboratory, USA  
+- Mario Motta, IBM Research Almaden, California, USA  
+- Abhishek Rajput, University of Oxford, UK  
+- Thomas M. Stace, University of Queensland/Analog Quantum Circuits Pty. Ltd., Australia  
+- Yudai Suzuki, The École Polytechnique Fédérale de Lausanne (EPFL), Switzerland  
+- Nobuyuki Yoshioka, University of Tokyo, ICEPP, Japan
+- and more
+(Alphabetical order)
 
 ## Contact
 
