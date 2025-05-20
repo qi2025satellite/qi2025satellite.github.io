@@ -24,7 +24,7 @@ The program includes:
 - **Poster Session**
 - **Hardware Tour / Free Discussion**
 
-**Program details:** [TBD](program.html)
+**Program details:** [See here for tentative program](program.html)
 
 ## Registration
 
