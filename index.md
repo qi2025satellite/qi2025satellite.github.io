@@ -66,7 +66,7 @@ For inquiries, please contact:
 
 This workshop is co-organized and sponsored by the following projects:
 
-- **MEXT Q-LEAP QuAI Flagship Project JPMXS0120319794 and JPMXS0118067394**
+- **MEXT Q-LEAP QuAI Flagship Project JPMXS0120319794**
 - **JST ASPIRE JPMJAP2319**
 - **JST COI-NEXT JPMJPF2014**
 
