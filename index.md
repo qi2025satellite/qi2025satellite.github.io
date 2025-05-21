@@ -29,6 +29,10 @@ The program includes:
 ## Registration
 
 - **Registration form:** [Click here](https://forms.gle/2dBKw2MpY7o6R6x17)
+- **Registration deadline for those attending the networking event:** July 10th (JST).
+- Registration for the event is open until the day of the event; you can even register upon arrival. This is solely for the purpose of counting the number of participants.
+- Registration fee is free.
+- For attendees of the networking event, please note that the fee will be collected at the event location. We expect the participation fee to be approximately 1,000 JPY for students and 2,000 JPY for others.
 
 ## Invited Speakers
 
