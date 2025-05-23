@@ -62,7 +62,6 @@ For inquiries, please contact:
 - Hiroki Oka  
 - Yasunari Suzuki  
 - Makoto Negoro
-- Nobuyuki Yoshioka
 
 ## Sponsorship
 
