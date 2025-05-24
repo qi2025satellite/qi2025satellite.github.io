@@ -71,5 +71,6 @@ This workshop is co-organized and sponsored by the following projects:
 - **MEXT Q-LEAP QuAI Flagship Project JPMXS0120319794**
 - **JST ASPIRE JPMJAP2319**
 - **JST COI-NEXT JPMJPF2014**
+- **JST Moonshot Goal 6**
 
 We look forward to seeing you at the workshop!
