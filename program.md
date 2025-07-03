@@ -33,8 +33,8 @@ description: Program
 |         | 10:30 - 11:00 | Contributed Speaker (11) |       |
 |         | 11:00 - 11:30 | Contributed Speaker (12) |       |
 |         | 11:30 - 13:00 | Lunch Break          |       |
-|         | 13:00 - 13:45 | Invited Speaker (7)  |       |
-|         | 13:45 - 14:30 | Invited Speaker (8)  |       |
+|         | 13:00 - 13:45 | Zhenyu Cai (invited talk)  |       |
+|         | 13:45 - 14:30 | Lin Lin (invited talk)  |       |
 |         | 14:30 - 15:00 | Break                |       |
 |         | 15:00 -        | Poster & Tour       |       |
 
