@@ -6,36 +6,34 @@ description: Program
 
 ## Program (tentative)
 
-| Date   | Time          | Speaker            | Title |
-|---------|----------------|---------------------|-------|
-| July 24 | 13:00 - 13:45 | Invited Speaker (1)  |       |
-|         | 13:45 - 14:30 | Invited Speaker (2)  |       |
-|         | 14:30 - 15:00 | Break                |       |
-|         | 15:00 - 15:30 | Contributed Speaker (1) |       |
-|         | 15:30 - 16:00 | Contributed Speaker (2) |       |
-|         | 16:00 - 16:30 | Contributed Speaker (3) |       |
-|         | 16:30 - 17:00 | Break                |       |
-|         | 17:00 - 17:45 | Invited Speaker (3)  |       |
-| July 25 | 10:00 - 10:45 | Invited Speaker (4)  |       |
-|         | 10:45 - 11:30 | Invited Speaker (5)  |       |
-|         | 11:30 - 13:00 | Lunch Break          |       |
-|         | 13:00 - 13:30 | Contributed Speaker (4) |       |
-|         | 13:30 - 14:00 | Contributed Speaker (5) |       |
-|         | 14:00 - 14:30 | Contributed Speaker (6) |       |
-|         | 14:30 - 15:00 | Break                |       |
-|         | 15:00 - 15:30 | Contributed Speaker (7) |       |
-|         | 15:30 - 16:00 | Contributed Speaker (8) |       |
-|         | 16:00 - 16:30 | Contributed Speaker (9) |       |
-|         | 16:30 - 17:00 | Break                |       |
-|         | 17:00 - 17:45 | Invited Speaker (6)  |       |
-|         | 17:45 -        | Reception           |       |
-| July 28 | 10:00 - 10:30 | Contributed Speaker (10) |       |
-|         | 10:30 - 11:00 | Contributed Speaker (11) |       |
-|         | 11:00 - 11:30 | Contributed Speaker (12) |       |
-|         | 11:30 - 13:00 | Lunch Break          |       |
-|         | 13:00 - 13:45 | Zhenyu Cai (invited talk)  |       |
-|         | 13:45 - 14:30 | Lin Lin (invited talk)  |       |
-|         | 14:30 - 15:00 | Break                |       |
-|         | 15:00 -        | Poster & Tour       |       |
+| Date     | Time          | Speaker                          | Title                                                                                          |
+|----------|---------------|----------------------------------|------------------------------------------------------------------------------------------------|
+| July 24  | 13:00 - 13:45 | Tom Stace (invited talk)         | TBD                                                                                            |
+|          | 13:45 - 14:30 | Nobuyuki Yoshioka (invited talk) | TBD                                                                                            |
+|          | 14:30 - 15:00 | Break                            |                                                                                                |
+|          | 15:00 - 15:30 | Haruki Emori                     | Parametrized quantum instruments                                                               |
+|          | 15:30 - 16:00 | Hon Wai Lau                      | Quantum Memory Resource Advantage in Reinforcement Learning                                    |
+|          | 16:00 - 16:30 | Break                            |                                                                                                |
+|          | 16:30 - 17:15 | Abhishek Rajput (invited talk)   | TBD                                                                                            |
+| July 25  | 10:00 - 10:45 | Mario Motta (invited talk)       | TBD                                                                                            |
+|          | 10:45 - 11:30 | Keita Kanno (invited talk)       | TBD                                                                                            |
+|          | 11:30 - 13:00 | Lunch Break                      |                                                                                                |
+|          | 13:00 - 13:30 | Tenzan Araki                     | Exponential distillation of dominant eigenproperties                                           |
+|          | 13:30 - 14:00 | Yuichiro Yoshida                 | Quantum-classical hybrid auxiliary-field quantum Monte Carlo approach with quantum selected configuration interaction |
+|          | 14:00 - 14:30 | Zhi Yin                          | A Hybrid Quantum Computing Pipeline for Real World Drug Discovery                              |
+|          | 14:30 - 15:00 | Break                            |                                                                                                |
+|          | 15:00 - 15:30 | Koichi Miyamoto                  | Improved quantum algorithm for calculating eigenvalues of differential operators and its application to estimating the decay rate of the perturbation distribution tail in stochastic inflation |
+|          | 15:30 - 16:00 | Kaoru Mizuta                     | Substantial efficiency of Trotterization for low-energy states                                 |
+|          | 16:00 - 16:30 | Break                            |                                                                                                |
+|          | 16:30 - 17:15 | Yudai Suzuki (invited talk)      | TBD                                                                                            |
+|          | 17:45 -       | Reception                        |                                                                                                |
+| July 28  | 10:00 - 10:30 | Kazuki Sakamoto                  | On the quantum computational complexity of classical linear dynamics with geometrically local interactions |
+|          | 10:30 - 11:00 | Yuga Hirai                       | Decoding Strategy for Lattice Surgery between Surface Code and Hypergraph Product Code         |
+|          | 11:00 - 11:30 | Theerapat Tansuwannont           | Clifford gates with logical transversality for self-dual CSS codes                             |
+|          | 11:30 - 13:00 | Lunch Break                      |                                                                                                |
+|          | 13:00 - 13:45 | Zhenyu Cai (invited talk)        | TBD                                                                                            |
+|          | 13:45 - 14:30 | Lin Lin (invited talk)           | TBD                                                                                            |
+|          | 14:30 - 15:00 | Break                            |                                                                                                |
+|          | 15:00 -       | Poster & Tour                    |                                                                                                |
 
 [back](./)
