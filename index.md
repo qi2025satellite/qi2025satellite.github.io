@@ -15,6 +15,7 @@ We also plan a hardware tour or informal discussion session to promote further c
 
 - **Date:** July 24 (afternoon), July 25 (morning & afternoon), and July 28 (morning + hardware tour and free discussion), 2025  
 - **Location:** [Sigma Hall, Toyonaka Campus, Osaka University](https://maps.app.goo.gl/wicHqdjQkiR3oRfY9)
+- Detailed access information can be found here: [pdf file]("Access to the Venue.pdf")
 
 ## Program
 
