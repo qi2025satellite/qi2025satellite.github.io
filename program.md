@@ -14,7 +14,7 @@ description: Program
 |          | 15:00 - 15:30 | Haruki Emori                     | Parametrized quantum instruments                                                               |
 |          | 15:30 - 16:00 | Hon Wai Lau                      | Quantum Memory Resource Advantage in Reinforcement Learning                                    |
 |          | 16:00 - 16:30 | Break                            |                                                                                                |
-|          | 16:30 - 17:15 | Abhishek Rajput (invited talk)   | TBD                                                                                            |
+|          | 16:30 - 17:15 | Abhishek Rajput (invited talk)   | Fault-Resilience of Dissipative Processes for Quantum Computing                                |
 | July 25  | 10:00 - 10:45 | Mario Motta (invited talk)       | TBD                                                                                            |
 |          | 10:45 - 11:30 | Keita Kanno (invited talk)       | TBD                                                                                            |
 |          | 11:30 - 13:00 | Lunch Break                      |                                                                                                |
@@ -25,7 +25,7 @@ description: Program
 |          | 15:00 - 15:30 | Koichi Miyamoto                  | Improved quantum algorithm for calculating eigenvalues of differential operators and its application to estimating the decay rate of the perturbation distribution tail in stochastic inflation |
 |          | 15:30 - 16:00 | Kaoru Mizuta                     | Substantial efficiency of Trotterization for low-energy states                                 |
 |          | 16:00 - 16:30 | Break                            |                                                                                                |
-|          | 16:30 - 17:15 | Yudai Suzuki (invited talk)      | TBD                                                                                            |
+|          | 16:30 - 17:15 | Yudai Suzuki (invited talk)      | Double-bracket quantum algorithms for ground-state preparation via cooling                     |
 |          | 17:45 -       | Reception                        |                                                                                                |
 | July 28  | 10:00 - 10:30 | Kazuki Sakamoto                  | On the quantum computational complexity of classical linear dynamics with geometrically local interactions |
 |          | 10:30 - 11:00 | Yuga Hirai                       | Decoding Strategy for Lattice Surgery between Surface Code and Hypergraph Product Code         |
