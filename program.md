@@ -20,7 +20,7 @@ description: Program
 |          | 11:30 - 13:00 | Lunch Break                      |                                                                                                |
 |          | 13:00 - 13:30 | Tenzan Araki                     | Exponential distillation of dominant eigenproperties                                           |
 |          | 13:30 - 14:00 | Yuichiro Yoshida                 | Quantum-classical hybrid auxiliary-field quantum Monte Carlo approach with quantum selected configuration interaction |
-|          | 14:00 - 14:30 | Zhi Yin                          | A Hybrid Quantum Computing Pipeline for Real World Drug Discovery                              |
+|          | 14:00 - 14:30 | Yuga Hirai                       | Decoding Strategy for Lattice Surgery between Surface Code and Hypergraph Product Code         |
 |          | 14:30 - 15:00 | Break                            |                                                                                                |
 |          | 15:00 - 15:30 | Koichi Miyamoto                  | Improved quantum algorithm for calculating eigenvalues of differential operators and its application to estimating the decay rate of the perturbation distribution tail in stochastic inflation |
 |          | 15:30 - 16:00 | Kaoru Mizuta                     | Substantial efficiency of Trotterization for low-energy states                                 |
@@ -28,7 +28,7 @@ description: Program
 |          | 16:30 - 17:15 | Yudai Suzuki (invited talk)      | Double-bracket quantum algorithms for ground-state preparation via cooling                     |
 |          | 17:45 -       | Reception                        |                                                                                                |
 | July 28  | 10:00 - 10:30 | Kazuki Sakamoto                  | On the quantum computational complexity of classical linear dynamics with geometrically local interactions |
-|          | 10:30 - 11:00 | Yuga Hirai                       | Decoding Strategy for Lattice Surgery between Surface Code and Hypergraph Product Code         |
+|          | 10:30 - 11:00 | Zhi Yin                          | A Hybrid Quantum Computing Pipeline for Real World Drug Discovery                              |
 |          | 11:00 - 11:30 | Theerapat Tansuwannont           | Clifford gates with logical transversality for self-dual CSS codes                             |
 |          | 11:30 - 13:00 | Lunch Break                      |                                                                                                |
 |          | 13:00 - 13:45 | Zhenyu Cai (invited talk)        | TBD                                                                                            |
