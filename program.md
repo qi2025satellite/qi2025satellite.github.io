@@ -32,7 +32,7 @@ description: Program
 |          | 11:00 - 11:30 | Theerapat Tansuwannont           | Clifford gates with logical transversality for self-dual CSS codes                             |
 |          | 11:30 - 13:00 | Lunch Break                      |                                                                                                |
 |          | 13:00 - 13:45 | Zhenyu Cai (invited talk)        | TBD                                                                                            |
-|          | 13:45 - 14:30 | Lin Lin (invited talk)           | TBD                                                                                            |
+|          | 13:45 - 14:30 | Lin Lin (invited talk)           | Rapid quantum ground state preparation via dissipative dynamics                                |
 |          | 14:30 - 15:00 | Break                            |                                                                                                |
 |          | 15:00 -       | Poster & Tour                    |                                                                                                |
 
