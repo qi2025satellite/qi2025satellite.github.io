@@ -15,7 +15,7 @@ description: Program
 |          | 15:30 - 16:00 | Hon Wai Lau                      | Quantum Memory Resource Advantage in Reinforcement Learning                                    |
 |          | 16:00 - 16:30 | Break                            |                                                                                                |
 |          | 16:30 - 17:15 | Abhishek Rajput (invited talk)   | Fault-Resilience of Dissipative Processes for Quantum Computing                                |
-| July 25  | 10:00 - 10:45 | Mario Motta (invited talk)       | TBD                                                                                            |
+| July 25  | 10:00 - 10:45 | Mario Motta (invited talk)       | Non-equilibrium thermodynamics of precision using quantum and classical computers in concert |
 |          | 10:45 - 11:30 | Keita Kanno (invited talk)       | TBD                                                                                            |
 |          | 11:30 - 13:00 | Lunch Break                      |                                                                                                |
 |          | 13:00 - 13:30 | Tenzan Araki                     | Exponential distillation of dominant eigenproperties                                           |
