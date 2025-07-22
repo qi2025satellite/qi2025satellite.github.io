@@ -9,7 +9,7 @@ description: Program
 | Date     | Time          | Speaker                          | Title                                                                                          |
 |----------|---------------|----------------------------------|------------------------------------------------------------------------------------------------|
 | July 24  | 13:00 - 13:45 | Tom Stace (invited talk)         | TBD                                                                                            |
-|          | 13:45 - 14:30 | Nobuyuki Yoshioka (invited talk) | TBD                                                                                            |
+|          | 13:45 - 14:30 | Nobuyuki Yoshioka (invited talk) | Faster Quantum Algorithms for Multiple Observables Estimation                                  |
 |          | 14:30 - 15:00 | Break                            |                                                                                                |
 |          | 15:00 - 15:30 | Haruki Emori                     | Parametrized quantum instruments                                                               |
 |          | 15:30 - 16:00 | Hon Wai Lau                      | Quantum Memory Resource Advantage in Reinforcement Learning                                    |
