@@ -16,7 +16,7 @@ description: Program
 |          | 16:00 - 16:30 | Break                            |                                                                                                |
 |          | 16:30 - 17:15 | Abhishek Rajput (invited talk)   | Fault-Resilience of Dissipative Processes for Quantum Computing                                |
 | July 25  | 10:00 - 10:45 | Mario Motta (invited talk)       | Non-equilibrium thermodynamics of precision using quantum and classical computers in concert |
-|          | 10:45 - 11:30 | Keita Kanno (invited talk)       | TBD                                                                                            |
+|          | 10:45 - 11:30 | Keita Kanno (invited talk)       | The QSCI method and its recent advances                                                        |
 |          | 11:30 - 13:00 | Lunch Break                      |                                                                                                |
 |          | 13:00 - 13:30 | Tenzan Araki                     | Exponential distillation of dominant eigenproperties                                           |
 |          | 13:30 - 14:00 | Yuichiro Yoshida                 | Quantum-classical hybrid auxiliary-field quantum Monte Carlo approach with quantum selected configuration interaction |
