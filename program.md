@@ -4,7 +4,7 @@ title: QI2025 satellite workshop on Practical Quantum Computing
 description: Program
 ---
 
-## Program (tentative)
+## Program
 
 | Date     | Time          | Speaker                          | Title                                                                                          | Chair             |
 |----------|---------------|----------------------------------|------------------------------------------------------------------------------------------------|-------------------|
