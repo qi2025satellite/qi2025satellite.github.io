@@ -11,8 +11,8 @@ description: Program
 | July 24  | 13:00 - 13:45 | Tom Stace (invited talk)         | TBD                                                                                            | Kosuke Mitarai    |
 |          | 13:45 - 14:30 | Nobuyuki Yoshioka (invited talk) | Faster Quantum Algorithms for Multiple Observables Estimation                                  | Kosuke Mitarai    |
 |          | 14:30 - 15:00 | Break                            |                                                                                                |                   |
-|          | 15:00 - 15:30 | Haruki Emori                     | Parametrized quantum instruments                                                               | Kosuke Mitarai   |
-|          | 15:30 - 16:00 | Hon Wai Lau                      | Quantum Memory Resource Advantage in Reinforcement Learning                                    | Kosuke Mitarai   |
+|          | 15:00 - 15:30 | Haruki Emori                     | Parametrized quantum instruments                                                               | Nobuyuki Yoshioka   |
+|          | 15:30 - 16:00 | Hon Wai Lau                      | Quantum Memory Resource Advantage in Reinforcement Learning                                    | Nobuyuki Yoshioka   |
 |          | 16:00 - 16:30 | Break                            |                                                                                                |                   |
 |          | 16:30 - 17:15 | Abhishek Rajput (invited talk)   | Fault-Resilience of Dissipative Processes for Quantum Computing                                | Yasunari Suzuki   |
 | July 25  | 10:00 - 10:45 | Mario Motta (invited talk)       | Non-equilibrium thermodynamics of precision using quantum and classical computers in concert | Nobuyuki Yoshioka |
