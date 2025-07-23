@@ -36,4 +36,21 @@ description: Program
 |          | 14:30 - 15:00 | Break                            |                                                                                                |                   |
 |          | 15:00 -       | Poster & Tour                    |                                                                                                |                   |
 
+## Poster Session
+
+| Presenter       | Affiliation                          | Title                                                                                                |
+|-----------------|--------------------------------------|------------------------------------------------------------------------------------------------------|
+| Khinevich Viktor| The University of Osaka              | Enhancing Quantum Power Methods with Generalized Quantum Signal Processing                           |
+| Ryo Watanabe    | The University of Osaka              | Quantum Inspired Algorithm with 2D Tensor Networks                                                   |
+| Maria Dinca     | University of Oxford                 | Zero noise extrapolation based on decoder soft outputs in the early fault-tolerant quantum computing era |
+| Tatsuhiko Ikeda | ZEN University                       | Measuring Trotter Error and Precision‑Guaranteed Hamiltonian Simulations                           |
+| Keitaro Anai    | The University of Tokyo              | Continuous-variable circuit-knitting and state preparation of non-Gaussian states using projective squeezing |
+| Shintaro Ae     | The University of Tokyo              | Theory of Randomized Block Encoding                                                                  |
+| Chusei Kiumi    | The University of Osaka              | TE-PAI: Exact Time Evolution by Sampling Random Circuits                                             |
+| KUNAL KUMAR     | Oxford Quantum Circuits              | Quantum Finance: OQC's Offerings in Financial Applications                                           |
+| Cainelli Mauro  | Kyoto University                     | Jastrow Decomposition of Relativistic Hamiltonians                                                   |
+| Hugo PAGES      | Strasbourg University/ Osaka university | Energy Gap Estimation by combining  Probabilistic Angle Interpolation  and Shadow Spectroscopy       |
+| Do Tuan Minh    | The University of Osaka              | Quantum-inspired optimization of nanoparticle catalysts using tensor trains                          |
+| Tomoya Shiota   | The University of Osaka              | Universal Neural Network Potentials as Atomic Descriptors: Toward Efficient and Accurate Chemical Property Prediction with Quantum Machine Learning |
+
 [back](./)

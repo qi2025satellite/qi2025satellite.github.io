@@ -46,7 +46,6 @@ The program includes:
 - Thomas M. Stace, University of Queensland/Analog Quantum Circuits Pty. Ltd., Australia  
 - Yudai Suzuki, The École Polytechnique Fédérale de Lausanne (EPFL), Switzerland  
 - Nobuyuki Yoshioka, University of Tokyo, ICEPP, Japan
-- and more
 
 (Alphabetical order)
 
