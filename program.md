@@ -8,7 +8,7 @@ description: Program
 
 | Date     | Time          | Speaker                          | Title                                                                                          | Chair             |
 |----------|---------------|----------------------------------|------------------------------------------------------------------------------------------------|-------------------|
-| July 24  | 13:00 - 13:45 | Tom Stace (invited talk)         | TBD                                                                                            | Kosuke Mitarai    |
+| July 24  | 13:00 - 13:45 | Tom Stace (invited talk)         | Tensor Network Codes                                                                           | Kosuke Mitarai    |
 |          | 13:45 - 14:30 | Nobuyuki Yoshioka (invited talk) | Faster Quantum Algorithms for Multiple Observables Estimation                                  | Kosuke Mitarai    |
 |          | 14:30 - 15:00 | Break                            |                                                                                                |                   |
 |          | 15:00 - 15:30 | Haruki Emori                     | Parametrized quantum instruments                                                               | Nobuyuki Yoshioka   |
