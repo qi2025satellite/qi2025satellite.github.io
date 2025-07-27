@@ -31,7 +31,7 @@ description: Program
 |          | 10:30 - 11:00 | Zhi Yin                          | A Hybrid Quantum Computing Pipeline for Real World Drug Discovery                              | Wataru Mizukami   |
 |          | 11:00 - 11:30 | Theerapat Tansuwannont           | Clifford gates with logical transversality for self-dual CSS codes                             | Wataru Mizukami   |
 |          | 11:30 - 13:00 | Lunch Break                      |                                                                                                |                   |
-|          | 13:00 - 13:45 | Zhenyu Cai (invited talk)        | TBD                                                                                            | Yasunari Suzuki   |
+|          | 13:00 - 13:45 | Zhenyu Cai (invited talk)        | Bridging Quantum Error Correction and Mitigation                                                                                            | Yasunari Suzuki   |
 |          | 13:45 - 14:30 | Lin Lin (invited talk)           | Rapid quantum ground state preparation via dissipative dynamics                                | Yasunari Suzuki   |
 |          | 14:30 - 15:00 | Break                            |                                                                                                |                   |
 |          | 15:00 -       | Poster & Tour                    |                                                                                                |                   |
